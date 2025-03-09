@@ -2,7 +2,7 @@
 # 🚀 DeepSeek Multi-Persona Chatbot 🎭  
 A multi-role AI assistant powered by **DeepSeek** models. This chatbot seamlessly **switches between different personalities** to assist with various tasks like coding, emotional support, movie recommendations, and more.  
 
-![DeepSeek Multi-Persona Chatbot](https://drive.google.com/file/d/1uWsKb6dGqtJxkq4mbAh8dpvKFov2-X3A/view?usp=sharing)  
+![DeepSeek Multi-Persona Chatbot](screenshots/multiroles.png)  
 
 ## 🌟 Features  
 ✅ **Multi-Persona AI** – Supports different personalities like Code Expert, Movie Enthusiast, Emotional Support, and more.  
@@ -18,11 +18,11 @@ A multi-role AI assistant powered by **DeepSeek** models. This chatbot seamlessl
 
 | Feature | Screenshot |
 |---------|-----------|
-| **Coding Assistant Mode** | ![Code Expert](https://drive.google.com/file/d/1T-h-t-_hS6z64-6FucC0ItWo-8gkbFYU/view?usp=sharing) |
-| **Emotional Support Buddy** | ![Emotional Support](https://drive.google.com/file/d/1VObuVzRYHpY5XgSbdgctxzhzb7RNfrp5/view?usp=sharing) |
-| **Movie Enthusiast Mode** | ![Movie Enthusiast](https://drive.google.com/file/d/1i8UVFgfNn2gXFaWoQooJbPPtpoZjxYPm/view?usp=sharing) |
-| **Language Translator** | ![Translator Mode](https://drive.google.com/file/d/1twtIPI1mAWaRF9oJxrDXVYxGZCDu3LBW/view?usp=sharing) |
-| **Model Toggle Menu** | ![Model Menu](https://drive.google.com/file/d/1BboQDuyQ-aTCA__czHoNGxPEX8t81LHU/view?usp=sharing) |
+| **Coding Assistant Mode** | ![Code Expert](screenshots/code_expert.png) |
+| **Emotional Support Buddy** | ![Emotional Support](screenshots/emotional_support.png) |
+| **Movie Enthusiast Mode** | ![Movie Enthusiast](screenshots/cinephile.png) |
+| **Language Translator** | ![Translator Mode](screenshots/translator.png) |
+| **Model Toggle Menu** | ![Model Menu](screenshots/model_choose.png) |
 
 ---
 
